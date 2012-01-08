@@ -1,0 +1,32 @@
+Using this Site
+---------------
+
+Using this website is pretty easy, if you know how to create folders and drop images in them you're in great shape! All you have to do is:
+
+  - Host the files via FTP
+  - Create folders that will appear on the navigation menu on the left
+  - Add images to those folders
+  - If you want to add text like this section here, drop a .txt file into the folder
+
+Some other things you might need to know, if you want to add a folder with a space in the name use a dash instead of a space. e.g. "fathers-day".
+
+Also if you want to add a text area like this then add a ".txt" file in the folder you want, and the formatting is all in Markdown. 
+
+Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
+
+
+  [john gruber]: http://daringfireball.net/
+  [1]: http://daringfireball.net/projects/markdown/
+  [blank page]: ?blank=1 "Clear all text"
+
+**Lorem ipsum**
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing
+elit.Etiam laoreet convallis lectus. Maecenas faucibus
+velit sed sapien. Vestibulum ante ipsum *primis* in
+faucibus orci luctus et ultrices posuere cubilia Curae;
+Aenean molestie.
+
+* Nullam iaculis sodales mi.
+* Mauris rutrum eros sed lacus.
+* Ut ultrices lectus eget lorem.
